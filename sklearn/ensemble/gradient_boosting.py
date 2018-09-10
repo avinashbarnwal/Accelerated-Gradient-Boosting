@@ -26,14 +26,14 @@ from __future__ import division
 from abc import ABCMeta
 from abc import abstractmethod
 
-from .base import BaseEnsemble
-from ..base import ClassifierMixin
-from ..base import RegressorMixin
-from ..externals import six
+from base import BaseEnsemble
+from base1 import ClassifierMixin
+from base1 import RegressorMixin
+import six
 
-from ._gradient_boosting import predict_stages
-from ._gradient_boosting import predict_stage
-from ._gradient_boosting import _random_sample_mask
+from _gradient_boosting import predict_stages
+from _gradient_boosting import predict_stage
+from _gradient_boosting import _random_sample_mask
 
 import numbers
 import numpy as np
@@ -45,21 +45,21 @@ from scipy.sparse import issparse
 from scipy.special import expit
 
 from time import time
-from ..tree.tree import DecisionTreeRegressor
-from ..tree._tree import DTYPE
-from ..tree._tree import TREE_LEAF
+from tree import DecisionTreeRegressor
+from _tree import DTYPE
+from _tree import TREE_LEAF
 
-from ..utils.validation  import check_random_state
-from ..utils.validation  import check_array
-from ..utils.validation  import check_X_y
-from ..utils.validation  import column_or_1d
-from ..utils.validation  import check_consistent_length
-from ..utils.deprecation import deprecated
-from ..utils.fixes import logsumexp
-from ..utils.stats import _weighted_percentile
-from ..utils.validation import check_is_fitted
-from ..utils.multiclass import check_classification_targets
-from ..exceptions import NotFittedError
+from validation  import check_random_state
+from validation  import check_array
+from validation  import check_X_y
+from validation  import column_or_1d
+from validation  import check_consistent_length
+from deprecation import deprecated
+from fixes import logsumexp
+from stats import _weighted_percentile
+from validation import check_is_fitted
+from multiclass import check_classification_targets
+from exceptions import NotFittedError
 
 
 class QuantileEstimator(object):

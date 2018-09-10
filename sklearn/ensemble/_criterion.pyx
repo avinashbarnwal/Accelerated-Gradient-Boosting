@@ -26,10 +26,10 @@ import numpy as np
 cimport numpy as np
 np.import_array()
 
-from ._utils cimport log
-from ._utils cimport safe_realloc
-from ._utils cimport sizet_ptr_to_ndarray
-from ._utils cimport WeightedMedianCalculator
+from _utils cimport log
+from _utils cimport safe_realloc
+from _utils cimport sizet_ptr_to_ndarray
+from _utils cimport WeightedMedianCalculator
 
 cdef class Criterion:
     """Interface for impurity criteria.
