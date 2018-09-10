@@ -9,4 +9,3 @@ Following is the algorithm:-
 
 [Algorithm](https://github.com/avinashbarnwal/Accelerated-Gradient-Boosting/blob/master/document/boosting-algorithm.pdf)
 
-![alt text](https://github.com/avinashbarnwal/Accelerated-Gradient-Boosting/blob/master/document/boosting-algorithm.pdf)
