@@ -7,4 +7,4 @@ Author has shown the results in R. This is the python implementation of the same
 Following is the algorithm:-
 
 
-[Algorithm]()
+[Algorithm](https://github.com/avinashbarnwal/Accelerated-Gradient-Boosting/blob/master/document/boosting-algorithm.pdf)
