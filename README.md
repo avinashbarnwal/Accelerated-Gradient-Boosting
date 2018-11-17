@@ -6,7 +6,7 @@ Author has shown the results in R. This is the python implementation of the same
 
 Following is the algorithm:-
 
-![alt text](https://github.com/avinashbarnwal/Accelerated-Gradient-Boosting/blob/master/document/boosting-algorithm.pdf)
+[Algorithm](https://github.com/avinashbarnwal/Accelerated-Gradient-Boosting/blob/master/document/boosting-algorithm.pdf)
 
 We have included two datasets(https://archive.ics.uci.edu/ml/datasets.html)
 
