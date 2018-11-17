@@ -16,16 +16,20 @@ We have included two datasets(https://archive.ics.uci.edu/ml/datasets.html)
 **Results**
 
 Crime Data Non Acceleration Performance
+
 ![alt text](https://github.com/avinashbarnwal/Accelerated-Gradient-Boosting/blob/master/output/agb_crime_non_acceleration.png)
 
 
 Crime Data Acceleration Performance
+
 ![alt text](https://github.com/avinashbarnwal/Accelerated-Gradient-Boosting/blob/master/output/agb_crime_acceleration.png)
 
 CBM Data Non Acceleration Performance
+
 ![alt text](https://github.com/avinashbarnwal/Accelerated-Gradient-Boosting/blob/master/output/agb_cbm_non_acceleration.png)
 
 CBM Data Acceleration Performance
+
 ![alt text](https://github.com/avinashbarnwal/Accelerated-Gradient-Boosting/blob/master/output/agb_cbm_acceleration.png)
 
 
