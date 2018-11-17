@@ -17,7 +17,7 @@ We have included two datasets(https://archive.ics.uci.edu/ml/datasets.html)
 
 Crime Data Non Acceleration Performance
 
-[Crime_Non_AGB](https://github.com/avinashbarnwal/Accelerated-Gradient-Boosting/blob/master/output/agb_crime_non_acceleration.png)
+![alt text](https://github.com/avinashbarnwal/Accelerated-Gradient-Boosting/blob/master/output/agb_crime_non_acceleration.png)
 
 Crime Data Acceleration Performance
 
