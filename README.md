@@ -13,4 +13,14 @@ We have included two datasets(https://archive.ics.uci.edu/ml/datasets.html)
 * Crime data
 * CBM data
 
+**Results**
+
+Crime Data Non Acceleration Performance
+
+Crime Data Acceleration Performance
+
+CBM Data Non Acceleration Performance
+
+CBM Data Acceleration Performance
+
 
