@@ -6,7 +6,7 @@ Author has shown the results in R. This is the python implementation of the same
 
 Following is the algorithm:-
 
-[Algorithm](https://github.com/avinashbarnwal/Accelerated-Gradient-Boosting/blob/master/document/boosting-algorithm.pdf)
+![alt text](https://github.com/avinashbarnwal/Accelerated-Gradient-Boosting/blob/master/document/boosting-algorithm.pdf)
 
 We have included two datasets(https://archive.ics.uci.edu/ml/datasets.html)
 
@@ -20,6 +20,8 @@ Crime Data Non Acceleration Performance
 ![alt text](https://github.com/avinashbarnwal/Accelerated-Gradient-Boosting/blob/master/output/agb_crime_non_acceleration.png)
 
 Crime Data Acceleration Performance
+
+
 
 CBM Data Non Acceleration Performance
 
