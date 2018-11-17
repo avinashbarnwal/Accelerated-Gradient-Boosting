@@ -6,6 +6,6 @@ Author has shown the results in R. This is the python implementation of the same
 
 Following is the algorithm:-
 
-https://docs.google.com/viewer?url=${link_to_raw_pdf}
+http://nbviewer.jupyter.org/github/avinashbarnwal/Accelerated-Gradient-Boosting/blob/master/document/boosting-algorithm.pdf
 
 
